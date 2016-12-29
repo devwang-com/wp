@@ -1,0 +1,104 @@
+html{
+	background: #eee
+	}
+body,div,a,img,p,form,h1,h2,h3,h4,h5,h6,input,textarea,ul,li,dt,dd,dl{
+	margin:0;
+	padding:0;}
+    
+#imgqr{
+	text-align:center;
+}
+    
+#Logo,#Nav,#Banner,#Footer{
+	width:100%; 
+	margin:0 auto;}
+	
+#Logo{
+	height:100%;
+	margin-bottom:0em}
+	
+@media screen and (max-width: 320px){
+    body{font-size: 14px;}
+}
+@media screen and (min-width: 321px) and (max-width: 480px){
+    body{font-size: 16px;}
+}
+@media screen and (min-width: 481px) and (max-width: 560px){
+    body{font-size: 18px;}
+}
+@media screen and (min-width: 561px) and (max-width: 660px){
+    body{font-size: 20px;}
+}
+@media screen and (min-width: 661px) and (max-width: 720px){
+    body{font-size:22px;}
+}
+@media screen and (min-width: 721px){
+ 	body{font-size: 24px;}
+}
+
+
+#one{
+    width: 100%;
+}
+#one .topbg{
+    width: 100%;
+}
+#one .top_content{
+    width: 100%;
+    text-align: center;
+    top:0;
+    left:0;
+    position: absolute;
+    font-size: 1.5em;
+    margin: 1.2em 0 0 0;
+}
+#one .top_content p{
+    color: #fff;
+    text-align: center;
+    line-height: 1.3em;
+}
+#one .top_content dl {
+    margin-top: 0.5em;
+}
+#one .top_content dl dt img{
+    width: 3em;
+    height: 3em;
+}
+
+#Nav{height:42px;}
+#Nav ul{
+height:42px;
+list-style:none;
+background:#56990c;
+}
+#Nav ul li{height:42px; width:9%;float:left;}
+#Nav ul li a{
+display:block;
+height:42px; 
+color:#FFF;
+padding:0 2px;
+line-height:42px;
+font-size:0.618em;
+font-weight:bold;
+font-family:Arial;
+text-decoration:none;
+float:left;
+}
+#Nav ul li a:hover{background:#68acd3;}
+
+#Banner{
+
+background:url(me/images/hutview.jpg) no-repeat;
+}
+
+
+#Footer{
+text-align:center;
+background:#aaa;
+padding: 10px 0;
+font-size:12px;
+font-family:Arial, Helvetica, sans-serif;
+color:#fff;
+line-height:20px;
+overflow:hidden;
+}
