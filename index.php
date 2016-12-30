@@ -34,14 +34,14 @@
 <div id="Nav">
 	<ul>
         <li></li>     
-     	<li><a href="#" target="_blank" title="个人主页">&nbsp;&nbsp;HOME&nbsp;&nbsp;</a></li>
-        <li><a href="#" target="_blank" title="SUN">&nbsp;&nbsp;SUN&nbsp;&nbsp;</a></li>
-        <li><a href="#" target="_blank" title="MON">MON</a></li>
-        <li><a href="#" target="_blank" title="TUES">&nbsp;TUES&nbsp;</a></li>
-        <li><a href="#" target="_blank" title="WED">&nbsp;WED&nbsp;</a></li>
-        <li><a href="#" target="_blank" title="THUR">THUR</a></li>
-        <li><a href="#" target="_blank" title="FRI">FRI</a></li>
-        <li><a href="#" target="_blank" title="SAT">&nbsp;SAT&nbsp;</a></li>
+     	<li><a href="#" target="_blank" title="个人主页">&nbsp;HOME&nbsp;</a></li>
+        <li><a href="#" target="_blank" title="にちようび">日曜日</a></li>
+        <li><a href="#" target="_blank" title="げつようび">月曜日</a></li>
+        <li><a href="#" target="_blank" title="かようび">火曜日</a></li>
+        <li><a href="#" target="_blank" title="すいようび">水曜日&nbsp;</a></li>
+        <li><a href="#" target="_blank" title="もくようび">木曜日</a></li>
+        <li><a href="#" target="_blank" title="きんようび">金曜日</a></li>
+        <li><a href="#" target="_blank" title="どようび">土曜日</a></li>
         <li><a href="#" target="_blank" title="关于博主">&nbsp;ABOUT&nbsp;</a></li>
         <li></li>&nbsp;
     </ul>
