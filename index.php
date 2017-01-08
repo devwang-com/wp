@@ -35,8 +35,8 @@
 	<ul>
         <li></li>     
      	<li><a href="#" target="_blank" title="个人主页">&nbsp;HOME&nbsp;</a></li>
-        <li><a href="#" target="_blank" title="にちようび">日曜日</a></li>
-        <li><a href="#" target="_blank" title="げつようび">月曜日</a></li>
+        <li><a href="https://github.com/devwang-com" target="_blank" title="にちようび|GitHub">日曜日</a></li>
+        <li><a href="http://blog.csdn.net/devwang_com?viewmode=list" target="_blank" title="げつようび|CSDN">月曜日</a></li>
         <li><a href="#" target="_blank" title="かようび">火曜日</a></li>
         <li><a href="#" target="_blank" title="すいようび">水曜日&nbsp;</a></li>
         <li><a href="#" target="_blank" title="もくようび">木曜日</a></li>
@@ -124,7 +124,7 @@
 	<div id="menu">
 		<ul>
 		
-			<li class="current_page_item"><a href="http://www.devwang.com" accesskey="1" title="">首页</a></li>
+			<li class="current_page_item"><a href="./index-back.php" accesskey="1" title="">首页</a></li>
 		
 		</ul>
 	</div>
